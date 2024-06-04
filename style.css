@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+body{
+    background-color: antiquewhite;
+   
+}
+div{
+    height: 200px;
+    width: 200px;
+}
+#box1{
+
+background-color: rgb(223, 59, 62);
+}
+#box2{
+
+    background-color: rgb(243, 245, 105);
+    }
+#box3{
+
+        background-color: rgb(29, 209, 241);
+
+        }
+        main{
+            display: flex;
+        }
